@@ -1,0 +1,1074 @@
+agivant
+Accelerate Testing
+Efficiency with testRigor
+Increase Testing Efficiency By 40% Using Artificial Intelligence.
+Test Automation in Agile development is critical to delivering consistent quality that meets users' expectations
+across various configurations and environments. It involves using automated tools and frameworks to execute tests,
+validate platform behavior, and ensure the platform functions correctly across different devices, operating systems,
+configurations, and browsers.
+Artificial Intelligence usage in testing strategies drives excellence in test coverage, improves compatibility, identifies
+performance issues, and delivers a more reliable and robust software platform across various devices, operating
+systems, and configurations.
+Predictive Recommendation Neural Natural Language
+Generative AI
+Analytics Model Network Processing
+Test Planning
+Optimization Result Analysis
+Reporting Automation
+Artificial Intelligence
+Execution in Platform Testing Testing Scenario
+Troubleshooting Test Cases
+Deep Regression Classification Machine
+Clustering
+Learning Model Model Learning
+Test Case Generation: Generative AI Intelligent Test Prioritization: Analyze the Compatibility Testing: Analyze platform
+provides a new perspective on platform's usage data, user feedback, and configurations, device specifications, and
+development test cases. Machine learning defect patterns to prioritize tests based on compatibility matrices to identify potential
+techniques can analyze existing test cases their impact and likelihood of failure. This compatibility issues. This helps determine
+and generate new ones that cover diverse ensures that critical areas are thoroughly the optimal combinations for testing and
+scenarios and edge cases, improving test tested, optimizing resource allocation. ensures the platform functions seamlessly
+coverage. across different devices, operating systems,
+and browsers.
+www.agivant.com agivant
+Performance Testing: Simulate user Error Detection and Analysis: AI Predictive Analytics: Leverage historical
+behavior, generate realistic load patterns, techniques, such as machine learning, can data and machine learning techniques to
+and analyze performance metrics to analyze test results, system logs, and other predict potential platform-specific issues,
+identify performance bottlenecks and areas test artifacts to detect patterns and performance bottlenecks, or compatibility
+of optimization. AI-powered performance anomalies that may indicate defects. This challenges. This enables proactive testing,
+testing tools can automatically detect helps in early defect detection and reduces optimization, and early mitigation of
+anomalies and provide insights for the time and effort required for debugging. potential risks.
+performance improvement.
+Log Analysis and Defect Triage: Analyze Test Optimization: Optimize the test Natural Language Processing (NLP):
+platform logs, error messages, and other execution process by identifying redundant Understand and process natural language
+test artifacts to identify relevant or overlapping test cases and removing test artifacts, such as requirements and
+information and prioritize defects. them. This reduces duplication, improves documentation. This improves traceability,
+AI-powered tools can help automate the testing efficiency, and ensures optimal test enables automatic test case generation, and
+defect triage process and improve defect coverage. enhances stakeholder communication.
+resolution efficiency.
+Agivant has strategic partnerships with Test Rigor, Data Dog, and Splunk to accelerate
+AI-driven test automation.
+Agivant AI Diagnostic Framework
+Agivant’s AI Diagnostics framework is based on 9 critical parameters to analyze an organization’s current state and
+readiness to accelerate their AI Journey.
+Our diagnostic framework helps clients analyze all key components to plan data transformation strategies
+Ideal State Selected Customer Similar Customer
+Foundation of AI : Do we have sufficient data Data
+Raw and aggregated Historical data, Auxiliary data, Availibility Trust: Can we trust the data
+External regressor data 5 Data Consistency & Reliability, Security, Compliance
+Impact : Very High Partnerships 4 D Goat va ernance Impact : Very High
+3
+2
+Partnership: Contribution & Participation in data
+communities and analysts to track future trends Talent Skills 1 Organization Alignment: Leadership alignment
+Industry best practices & key learnings, reusable Organisation Data Strategy, Business roadmap, Investments
+frameworks 0 Structure Impact : High
+Impact : High
+Domain Actionable
+Model Insights
+Talent: In-house, Partners, Alliance ecosystem OKR Defined : Do we have Objectives and Key
+ML Engineers, Data Analyst, Program Managers, Results defined Key goals, results and action well
+Data Scientists, Data Engineers, Cloud Engineers defined
+Impact : Very High Data Science Coginitive Impact : Very High
+Technologies
+Data Science Maturity: Already using data for decision
+Domain Model : Leveraging Industry taxonomy / making, Forecasting, Anomalies detection, Prediction, Technology Roadmap : preferred tool & technologies
+definitions Taxonomy, Metadata, Standards, Synthetic Pattern, Classification, Clustering, Regression, Document Processing, Chat Bot, Automation,
+Data, Regulatory Generative AI, Conversational AI, Large Language Model Robotics Process Automation
+Impact : Very High Impact : High Impact : High
+Execution and Implementation Approach : Data Audit, Survey, Interviews and Automated Data Discovery
+Output : Assessment Report & Recommendations
+www.agivant.com agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. agivant
+Azure Optimization &
+Acceleration Framework
+Agivant’s Azure AOAF
+Azure Optimization and Acceleration Framework, Enables Customer Services to Significantly Scale in A Highly
+Secured and Efficient Environment.
+Microsoft Azure is a highly scalable and complex environment for building a secure and scalable digital platform. It is
+critical to choose the right services and configure them effectively to:
+Build and deliver platform using Zero Trust Policies
+Telemetry instrumentation within the platform to drive real-time observability
+Real-time monitoring of services and infrastructure utilization to drive cost optimizations
+DevSecFinOps processes to increase the velocity of feature releases in production
+Enforce engineering best practices for new workloads or migrating exciting workloads to Azure
+Incubate new technologies to increase productivity and customer experience, such as co-pilot, Generative AI
+Agivant AI First Digital Engineering Lab has built AOAF, a consultative framework with reusable accelerators. AOAF,
+along with a team of senior cloud architects, performs a detailed assessment of Azure Environment and helps in
+overall optimization to accelerate the engineering velocity.
+AOAF - Azure Optimization and Acceleration Framework
+Reusable components to assess and optimize customer Azure Environment
+Consulting
+Migration Assessment
+Detailed assessment of cloud
+configuration and identify opportunities Portfolio assessment of migrating
+for improvement (cost, security, legacy code to Azure Environment
+performance, optimization, automation)
+Platform Optimization SRE
+Process / Tool Assessment, Identify
+Code assessment, refactoring
+opportunity for hyper-intelligent
+and modernize to maximum
+automation, Alert / Notification,
+usage of Azure Servicers, Usage
+of Co-Pilot capabilities AOAF Observability Assessment / Configuration
+Azure Optimization and
+Acceleration Framework
+DevSecFinOps Realtime Data Processing at Scale
+Continuous integration / Continuous Database technology assessment,
+Deployment Policy-driven configuration ETL/ELT Approach, ingestion, DQ
+management; Ring based deployment, Process, Query performance, report
+Infra provisioning Automation performance, Data Governance
+Value to Customer: Improve Agility, Cost Optimization and Improve Reliability
+www.agivant.com agivant
+Value to Customer
+Agivant experts have rich industry experience delivering critical and scalable services on Azure. A time-bound
+consultative program delivers the following potential business benefits:
+Azure cost optimization of 25% to 30% due to cleaning up unutilized resources, consolidation of infrastructure,
+leveraging features to manage the scalability
+Substantially increase release frequencies from weeks to days by integrating CI/CD and Quality Engineering
+processes through tools such as Azure DevOps and GitHub Actions.
+Leverage Agivant’s Innovative Service Maturity Model to drive engineering excellence across services and improve
+platform health and customer experience
+70% incident reduction by integrating AI-driven SRE best practices to drive operational excellence in the platform.
+Engagement Model
+In most cases, Agivant runs a 6 to 8 weeks consulting program with
+customers. Our experts need read-only access to the Azure environment to
+assess all subscriptions, resource groups, and services.
+Agivant Lab leverages AOAF and innovative analytical frameworks to
+analyze Azure insights to help customers optimize configurations.
+Agivant AI Diagnostic Framework
+Agivant’s AI Diagnostics framework is based on 9 critical parameters to analyze an organization’s current state and
+readiness to accelerate their AI Journey.
+Our diagnostic framework helps clients analyze all key components to plan data transformation strategies
+Ideal State Selected Customer Similar Customer
+Foundation of AI : Do we have sufficient data Data
+Raw and aggregated Historical data, Auxiliary data, Availibility Trust: Can we trust the data
+External regressor data 5 Data Consistency & Reliability, Security, Compliance
+Impact : Very High Partnerships 4 D Goat va ernance Impact : Very High
+3
+2
+Partnership: Contribution & Participation in data
+communities and analysts to track future trends Talent Skills 1 Organization Alignment: Leadership alignment
+Industry best practices & key learnings, reusable Organisation Data Strategy, Business roadmap, Investments
+frameworks 0 Structure Impact : High
+Impact : High
+Domain Actionable
+Model Insights
+Talent: In-house, Partners, Alliance ecosystem OKR Defined : Do we have Objectives and Key
+ML Engineers, Data Analyst, Program Managers, Results defined Key goals, results and action well
+Data Scientists, Data Engineers, Cloud Engineers defined
+Impact : Very High Data Science Coginitive Impact : Very High
+Technologies
+Data Science Maturity: Already using data for decision
+Domain Model : Leveraging Industry taxonomy / making, Forecasting, Anomalies detection, Prediction, Technology Roadmap : preferred tool & technologies
+definitions Taxonomy, Metadata, Standards, Synthetic Pattern, Classification, Clustering, Regression, Document Processing, Chat Bot, Automation,
+Data, Regulatory Generative AI, Conversational AI, Large Language Model Robotics Process Automation
+Impact : Very High Impact : High Impact : High
+Execution and Implementation Approach : Data Audit, Survey, Interviews and Automated Data Discovery
+Output : Assessment Report & Recommendations
+www.agivant.com agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. agivant
+Conversational AI
+with Google Dialogflow
+Agivant's Conversational AI Methodologies Using Google DialogFlowCX
+The Agivant Conversational AI Platform takes a comprehensive approach to expedite the creation of conversational
+AI solutions (Chatbot/Virtual Assistants) by incorporating automation and integration throughout various stages of
+the development process, including prototyping, design, testing, and analytics.
+Taking the Google Dialogflow CX tool case study, the Agivant Conversational AI Platform combines named and
+adaptable integration with the existing technology of enterprises, minimizing the need for extensive change
+management. Moreover, it fills existing gaps by enhancing your ecosystem with cutting-edge toolsets.
+Agivant Conversational AI Platform with Google Dialogflow CX implementation offers various application scenarios
+tailored to various industries, from Business to IT Operations. With its intuitive graphical flow orchestration,
+business users can design chat flows, customize use cases, and preconfigure knowledge bases for culture-specific
+interactions.
+Some of the essential attributes of Google Dialogflow’s impact and potential from Agivant Conversational AI Team
+are as follows:
+Human Language Conversation Standardizing Al Contextual Understanding
+By leveraging natural language processing (NLP) and DialogFlow has played a crucial role in standardizing Dialogflow’s ability to understand the context of a
+machine learning, DialogFlow enables developers to Al by making it accessible to a broader audience by conversation using intents and entities enabled our
+build chatbots and virtual assistants to understand providing a user-friendly interface and community developers can design Al systems that remember
+and respond to user queries more intuitively. support. and refer back to previous user inputs, leading to
+more meaningful and personalized interactions.
+Agivant team has made significant developments in Agivant team leveraged this to open new This contextual understanding enhances the overall
+creating natural and human-like conversations. opportunities for businesses of all sizes by user experience, as Al can maintain a coherent and
+implementing conversational Al in various ongoing dialogue.
+applications, from customer support to virtual
+companions.
+Multilingual Capabilities Continuous Learning and Training Ethical Concerns
+With the increasing globalization and diverse user DialogFlow’s machine-learning capabilities enable As conversational Al becomes more prevalent,
+bases of Agivant customers, DialogFlow’s support conversational bots to train and improve DialogFlow raises critical ethical considerations. It
+for multiple languages and multimodal interactions continuously over time. The Al system can adapt its prompts discussions about privacy, data security,
+has become a game changer. It allows businesses to responses, identify patterns, and refine its and the responsible use of Al.
+engage with users from different regions and understanding of user intent by analyzing user
+language backgrounds, breaking down walls and interactions, feedback, and relevant data. Agivant developers using DialogFlow prioritize
+expanding their spread. transparency, consent, and protection of user data,
+In Agivant, we establish this iterative learning ensuring that their developed agents adhere to
+Furthermore, the integration of voice, text, and process to make the Al system more accurate, ethical guidelines and regulations.
+other modalities enables users to interact with Al efficient, and personalized as it gains more exposure
+systems using their preferred mode of to real-world conversations.
+communication.
+www.agivant.com agivant
+Large Language Model Integration
+Conversational AI Platforms and LLM models offer a powerful combined effect that takes conversational
+experiences to new heights. By integrating LLMs, such as PaLM 2/Open AI, into Conversational AI Platforms,
+businesses can leverage these models' advanced language processing and generation capabilities to create more
+intelligent, context-aware, and human-like interactions.
+LLMs excel in understanding and generating natural language text, allowing them to comprehend user queries and
+generate responses that mimic human conversation. This integration enables Conversational AI Platforms to benefit
+from the extensive pre-training and language knowledge encapsulated within LLMs, enhancing their understanding
+of user intent and improving the quality of responses.
+Agivant Conversational AI team assists businesses in swiftly developing, training, evaluating, and implementing
+conversational AI interfaces. They seamlessly handle the entire lifecycle of conversational AI, including integration
+with top-notch LLM models.
+Agivant team has successfully created multiple modules, POC, and POV, to leverage the LLM model’s power with
+Google DialogFlow usability to solve advanced industry-level problems such as Cross-Lingual Conversations,
+Enhancing Emotional Intelligence, Collaborative Problem Solving, Domain-Specific Conversational Expertise, etc.
+Featuring, as below, an illustrative use case where the LLM model is used to generate an SQL query, validate it, and
+the same is then used for fetching data from SQL DB. This generic use case can be used as a base model for any
+industry and can be plugged in with any backend technology.
+Intents
+Entities
+Invoke Webhooks
+Response Route Groups
+Invoke
+Response Response
+Dialogflow CX
+www.agivant.com
+ssecorP gniniarT
+Machine
+Learning
+gninuT
+eniF
+In summary, Google Dialogflow has revolutionized conversational AI, and
+the Agivant Conversational AI Platform team managed to leverage its full
+ability to solve multiple industry use cases such as Customer Service and
+Support, E-commerce and Retail, HR Support, Healthcare and
+Telemedicine, Banking and Finance, Travel and Hospitality, etc.
+Tokenizing user questions to
+SQL query format string
+providing additional details for LLM model to convert it into LLM Boundary
+SQL query
+Customized
+Chat Widget LLM SQL
+Messengers Query Model
+Custom Client Invoke Request SQL Query
+Response Response
+LLM Query
+Chat Cloud Function Validation Cloud SQL
+Import AgentsClient Model Instance
+Import SessionsClient Import Sessions Prepare Training Data
+Invoke
+AgentsClient_parse_ Fine Tuning LLM Model
+agent_path Response Verification for accuracy
+Model deployment
+session_client.detect_
+intent
+Scheduled Unresolved intents
+Moodel Fine and queries
+Tuning
+Web Interface Storage agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. agivant
+Hyper Intelligent Automation
+using WorkFusion
+Agivant’s Hyper Intelligent Automation
+In today’s rapidly evolving technological landscape, businesses continually seek innovative solutions to streamline operations,
+enhance productivity, and drive growth. Hyper-Intelligent Automation (HIA) emerges as a groundbreaking platform that
+combines the power of artificial intelligence (AI), robotic process automation (RPA), and machine learning (ML) to revolutionize
+business processes.
+Agivant’s AI-First Digital Engineering Team incorporates advanced document processing capabilities and leverages AI-powered
+bots throughout the engineering life cycle. Our strategic collaborations with industry-leading Intelligent Automation solutions
+provider – WorkFusion- make this possible.
+Some Examples of The Transformative Capabilities of HIA And Its Impact on Businesses
+Across Industries Are as Follows:
+Human-Centric Automation Learning and Continuous Ethical and Transparent Automation
+HIA recognizes the intrinsic value of human Improvement HIA emphasizes ethical considerations and
+skills, creativity, and problem-solving Agivant tech team leverages HIA ML transparency. We design our HIA systems
+abilities. By automating mundane and algorithms to enable systems to learn from with accountability, explainability, and
+repetitive activities, HIA liberates human data, experiences, and feedback. This auditability as top priorities. Human
+potential, allowing individuals to engage in adaptive learning capability enables HIA to oversight is crucial for ethical and regulatory
+higher-level decision-making, innovation, continuously improve its performance, compliance in HIA systems. It helps humans
+and building meaningful relationships. The accuracy, and decision-making. understand and interpret the decisions made
+Agivant team utilizes automation capabilities by these systems. Agivant HIA Team enables
+to help organizations focus on more strategic As humans interact with HIA systems, they the framework to incorporate a Governance
+tasks and add value. contribute to the learning process, creating a Layer that oversees the entire automation
+collaborative learning cycle that benefits ecosystem.
+humans and machines.
+Innovation and Co-Creation AI/ML for Complex Problem Adaptability and Flexibility
+HIA promotes a culture of working together HIA leverages Al algorithms to process and The HIA system boasts flexibility, adjusting
+and producing new ideas in organizations. It understand complex data, enabling machines to varying business requirements and
+encourages people to collaborate with to interpret unstructured information and technological advancements. The flexibility
+machines, allowing employees to be involved perform cognitive tasks. Al-powered of HIA allows organizations to integrate new
+in creating, implementing, and improving capabilities include natural language technologies, data sources, and processes
+automation solutions. understanding, image recognition, sentiment seamlessly.
+analysis, and intelligent decision-making.
+By combining different viewpoints and Agivant team is well versed with all the latest Agivant team, while working with partners
+combining human creativity with machine technologies making the automation more like WorkFusion, embraces open standards
+intelligence, HIA helps generate intelligent, adaptable, and efficient. and APIs (Application Programming
+groundbreaking innovations and contributes Interfaces) to facilitate seamless integration
+to the organization's growth. with external systems and technologies.
+www.agivant.com agivant
+What HIA Can Do in A Real-Life Scenario of Financial Institutions? Some Of
+the Significant Features Of HIA:
+Document Processing Automation:
+Document Classification: AI algorithms analyze incoming loan applications and automatically classify them based on
+predefined categories (e.g., personal loans, mortgage loans, business loans). This automation reduces the manual effort of
+sorting and categorizing documents.
+Data Extraction: NLP algorithms extract relevant information from loan application documents, such as personal details,
+income, employment history, and financial statements. This automated data extraction eliminates the need for manual data
+entry, reducing errors and improving efficiency.
+Document Validation: Machine learning models are created to verify documents and ensure they comply with all necessary
+standards and regulations. The system can check for missing information, verify signatures, and cross-reference data with
+external sources for accuracy.
+Intelligent Chatbot Integration:
+Application Status Updates: Intelligent chatbots are integrated into the loan application system, allowing customers to inquire
+about the status of their applications. Chatbots use NLP techniques to understand user queries and provide real-time updates
+on application progress, ensuring transparency and reducing customer service inquiries.
+Document Submission Assistance: Chatbots guide customers through the document submission process, providing
+instructions and clarifying any ambiguities. They can verify if the necessary documents have been uploaded, help in case of
+errors or omissions, and address common queries regarding document requirements.
+Eligibility Assessment: Chatbots can interactively collect additional information from customers to determine their eligibility for
+specific loan products. Chatbots can assess eligibility criteria by asking relevant questions and analyzing customer responses,
+such as credit score, income level, and loan-to-value ratios.
+Conversational Intellect
+Personalized Activities Requiring Decision
+and Conversation
+System can engage in conversations through chat,
+messaging, or voice interfaces, utilizing cognitive
+capabilities, dynamic rules, or artificial learning to
+Smart Automation understand and respond intelligently to user queries or
+requests.
+Cognitive Automation
+Robotic Process Automation (RPA) Intelligent automation combines machine learning and Allowing Human-like Reasoning at Scale
+robotics to create cognitive automation. By leveraging cognitive capabilities, dynamic rules, or
+Wide range of applications artificial learning, automation systems can process and
+Can be applied across various departments and Handling Non-Routine Tasks a inn sa igly hz te s l aa nrg de m v ao klu inm ge is n fo of r mda et da , de ex ct ir sa ic oti nn s g in m ae man ai nn ng efu r l
+processes within an organization Intelligent automation excels in automating non-routine that mimics human reasoning.
+tasks that involve judgment and decision-making.
+Rule-Based Automation Increasing Value Rather than Reducing Cost
+HIA can effectively handle repetitive and rule-based Value and Effect-Driven Implementations The focus of intelligent automation is not solely on
+processes, freeing up human resources Intelligent automation implementations are driven by cost reduction but on increasing overall value for the
+the value they bring and the impact they have on the organization.
+organization.
+Substituting Entry-Level people in
+Process Execution Seamless Communication
+Compliance and Risk Management
+By automating routine tasks, organizations can reduce Conversational intelligence facilitates seamless
+the need for manual intervention and reliance on Intelligent automation can help organizations comply communication between humans and machines.
+lower-level positions with regulations and mitigate risks by enforcing
+standardized processes, maintaining audit trails, and
+ensuring data privacy and security.
+Platform for Strategic Change
+HIA provides a foundation for implementing and Interact
+adapting automation solutions
+Intelligence
+Task and Execute
+Intelligent automation represents the evolution of robotics, merging traditional automation's structured approach with machine
+learning's adaptability and the ingenuity of cognitive technologies. It equips organizations with intelligent solutions that go
+beyond automating repetitive tasks. With Intelligent Automation, software bots can learn, improve decision-making, and adapt
+their actions as they accumulate knowledge over time.
+www.agivant.com agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. agivant
+Hyperpersonalization
+using Adobe AEP
+Agivant’s Solution Framework for Integrating the Enterprise Level Machine Learning Models
+with Adobe Experience Platform and CDP For Hyper Personalized, Intelligent, and
+Real-Time Solutions.
+The hyper-personalized, intelligent, and real-time solutions are necessary for every enterprise to understand and
+analyze their end-customer needs in real-time and respond with the most relevant insights for creating positive and
+high-impact end-customer expectations.
+Such hyper-personalized, intelligent, and real-time solutions require a combination of various technical solutions to
+gather, process, and analyze data quickly, efficiently and integrate with multiple channels seamlessly.
+Agivant’s AI-First Cloud and Digital Engineering Lab has built the solution framework by leveraging Adobe
+Experience Platform solutions to the existing enterprise-level Machine Learning models with integration into
+enterprise systems.
+The comprehensive solution framework covers the in-depth approach to integrating various solution components:
+Customer data platform (CDP)
+Real-time data ingestion and stream processing platforms
+Machine learning models
+Real-time decision engine, Real-time analytics & monitoring frameworks
+Privacy and Security
+Integration of the real-time decision outputs on various channels – websites, portals, mobile applications,
+chatbots, commerce sites, social media solutions, call centers, self-service solutions, kiosks, etc.
+Adobe Experience Platform, Adobe’s real-time customer data platform, enables the collection, organization, and
+activation of customer data across multiple channels and provides the integration capabilities with existing machine
+learning models through its various integration services and integrates with other Adobe marketing tools, providing
+a comprehensive solution for customer data management and personalization.
+Agivant’s solution covers the following high-level steps to integrate the existing machine learning models with
+Adobe’s real-time CDP and Adobe Experience Platform:
+Build and export Establish Data You can seamlessly Execute the Integrate real-time
+the Machine Flow between integrate the Machine learning outputs with
+learning models in Adobe Experience Adobe Experience models and Adobe marketing
+industry-standard Platform and the Platform with the leverage the tools to deliver
+formats such as environment for model execution model outputs in personalized
+Predictive Model executing environment using Adobe Experience content across
+Markup Language machine learning real-time APIs or Platform. various channels.
+or Open Neural models. connectors.
+Network Exchange.
+www.agivant.com agivant
+Solution Architecture for custom Data Science model for Profile Enrichment
+Data Collection, Data
+Profile &
+Data Science & Management &
+Insight Activation
+Enrichment Preparation
+Server Side Client Side Adobe Experience Platform Edge
+S(AtrPeIa, mSDinKg) data Routing Profile & Segmentation Tags Event Forwarding
+Sdtarteaaming PSerogfimlee n&t Projection
+Streaming Adobe Pipeline
+Sources Applications
+Sdtarteaaming Sdtarteaa flmuisnhg Sdtarteaaming PQruoafilliefi c&a tiSoengment Profile / Audience
+Data Ingestion Real-Time Customer Profile Activation
+C Dlo atu ad S A top rp es s/ UpF li ole ad (ASPtrIe, aCmoninnge cdtaotras) CS otr ne na em ctin og rs Data Prep Sdtarteaaming Profile Store (S Be ag tcm he /n St ta reti ao mn ) PAruodfiielen &ce s
+ConB na etc ch tors (XDM Translator) Identity Store CoA mud pi oe sn itice on Adobe
+DEn Wte /r Mpr Dis Me So Su Drc Kes (APBI,a Ctcohn nDeacttaors) BDaattcah PCroopfiyle Applications
+Batch data Data Lake
+Dataset Export
+Priva
+(D
+Lc aay
+bta
+e&
+lG s o
+&G
+v e
+Po
+r on
+lv
+ia
+cne
+iec
+sr
+e
+)nance Peclno efl aioc nry ucepment & Data Catalogue DD aa tt aa s Ae ct
+c
+E ex ssp o Ar Pt
+I Data Access API
+Data Science Insights Data Requests Data Hygiene QMuoedreiel sIn &sights
+AI/ML Compute Environment Discovery & Insights
+M EL v T ar la ui an tiin og n & Recipies
+DReastua ltSscience
+Adobe Experience Platform Hub
+Query Service In At ( tte Cl rul ii bg ste uon timc oe e
+n
+r& A/ IA )I
+Administration Diaram Key
+Sandboxing | Access Control | Alerts | Audit Logs Ingress Data Flow
+Python Scala
+Intra System Data Flow
+R Spark Engress Data Flow
+By leveraging the solution approach, it is possible to integrate a range of machine learning models, including
+Real-time Personalization, Predictive Analytics, Customer Segmentation, Anomaly Detection, Product
+Recommendations, and Churn Prediction. with the Adobe Experience Platform. Some business use cases include
+Real-Time Content Personalization, Real-Time Pricing and Offers, Real-Time Recommendations, Real-Time Customer
+Service, Real-Time Fraud Detection, Real-Time Personalized Experiences, and Real-Time Ad Targeting.
+Value to Customer
+Agivant’s data scientists and Adobe experts have rich industry experience in building machine learning models
+based on various business use cases and integrating those models with Adobe Experience Platform and CDP in
+real-time to deliver hyper-personalized and intelligent engagements with end-customers across channels.
+Agivant’s solution framework can be implemented for multiple business use cases across industries to differentiate
+the enterprises for servicing their end-customers, resulting into
+Better acquisition rates – 20% to 40% increase
+Higher retention by engaging at the right time on the proper channels – 25% improvement
+Improved customer satisfaction
+Faster business growth through digital channels at lower costs
+Faster adoption of CDP, real-time decision engine, and marketing tools – 20% saving
+Engagement Model
+We partner to design the customized solution approach with a 6 to 8 weeks
+consulting program with our clients. We follow an agile approach to roll out
+business use cases in a phased manner to start delivering business outputs
+starting at earlier stages.
+Agivant Lab leverages our solution framework to deliver CDP, real-time
+decision engine, machine learning models, and Adobe marketing tools.
+www.agivant.com agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. agivant
+Platform Migration and
+Modernization to Cloud
+with Cast
+Accelerate Application Modernization and Migration Assessment
+to Cloud with CAST
+Migration of legacy workload to a cloud environment can present several challenges in performance areas, the
+additional cost of operations due to legacy code architecture, and dependencies.
+Agivant's team of cloud architects has extensive experience migrating complex platforms to the cloud. They utilize a
+three-step iterative process for modernization and migration.
+Center of Excellence to Modernize and Migration to Cloud
+Tools Driven
+Assessment
+www.agivant.com
+&
+sdeeN
+ot
+eulaV
+snotiatcepxE
+saerA
+sucoF
+yeK
+remotsuC
+Planning Migration Stabilize Optimization
+Detailed Assessment of Customer Lift & Shift with Modernisation Monitor and Stabilize the Cost Optimization, Technology
+IT Environment (Services, Products, & Cloud Native business Modernization, AI/ML
+Infra, Technologies) implementation
+Continuous Improvements
+Observability
+Bug Fixes/
+Optimization
+Platform Modernization
+Infra Setup
+Customer Issues
+Platform
+Migration
+Customer Customization Cloud Infra Technology
+workshops Cleanup Simplification
+Cost Monitoring
+Platform is in Cloud New Tech Adoptions, Incubating Migration Roadmap End Customer Satisfaction
+Environment AI to reduce TCO
+Agivant Has Set Up a Strategic Partnership with CAST Software to Do Detailed Migration Planning And Helping
+Clients Execute Complex Migration & Modernization. agivant
+Migration: Execute with speed and quality, minimizing impact on client resources
+Portfolio Discovery Refactor / Replatform to Cloud Application Discovery On-going Modernization in Cloud
+Code Blocker Detection Clean up blockers Deep dive into the Champion Happens in a state-of-the-art
+systems and ensure that from environment
+Technology Blocker Detection Cloud Services Activation
+the architectural point of view,
+Native technologies (Java, C#) & DevOps
+Application Dependency Detection Money is saved to invest in they're going to be able to keep
+further modernization Scalable up with the increased charge Large pool of talented skills available
+Data Dependency Detection
+and data volume
+Target native technologies (Java, Best and latest tools available on the
+C#, Containers, ...) market
+At own pace and with own priorities
+No mixing of risks
+Re-invest savings
+A Quick Wins X% Re-Host (lift & shift)
+Minor
+Modernization
+X% Re-Platform
+Minor Cleanup
+B Needed Cast Architectural
+F (or na g Pm ree mnt isa eti )on and Modernizatio Maps
+C B Ni eg eg de er dCleanup
+X% Refactor
+Legacy D F Nr ea eg dm ee dntation Fragmentation and Modernizatio Start
+Applications (on Premise)
+X% Re-Architect
+(Microservices / APIs)
+E Re-Engineering
+Required
+Isolate
+Transaction MicroServices
+Replace with "as a service" Rationalize and
+X% Retain/Re-Host on Traditional X% X%
+solution or COTS decommission (Retire)
+Value to Customer
+Agivant experts have rich industry experience migrating complex platforms to top-tier hyper scalers (Azure, AWS,
+GCP). Agivant with CAST tools delivers significant value to the customer:
+Detailed assessment of technologies, service dependencies, tech debt
+CAST technologies scan hundreds of applications, automatically categorize them according to the Gartner
+5Rs, detect cloud blockers, opensource risks, and deficient energy consumption patterns, recommend Cloud
+services, reserve-engineers detailed architecture maps of complex applications, guide dev teams on how to
+modernize fast and safe.
+Reduce Total cost of operations (TCO) by 25% to 30% through cloud services optimization, improve customer
+support cost, and AI-enabled Self Service Optimization.
+www.agivant.com agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. agivant
+Platform Observability
+with Splunk
+AI-Enabled Platform Observability Accelerate Platform Development
+Platform observability is crucial in accelerating platform development by facilitating faster issue resolution,
+improving collaboration and communication, enabling continuous improvement, proactively optimizing
+performance, streamlining testing, supporting data-driven decision-making, and ensuring reliable infrastructure
+and deployment processes.
+Agivant AI First Digital Engineering Solutions integrates multidimensional observability capabilities within the
+engineering life cycle by leveraging our strategic partnerships with Datadog and Splunk products.
+Agivant POV Around Ovesrvability
+Agivant focus on implementing the Al First approach to maximize the ROI by automating all possible use cases to
+optimize engineer bandwidth and investments
+Infrastructure Telemetry
+Application Services/
+Telemetry
+Monitoring (Comprehensive Reports)
+- Tracks basic health of individual components in IT systems
+- Looks at events; triggers alerts and notifications
+- provide reports, and visualization to make decisions
+Observability (Move from Reports to Actions)
+- Gives actionable insights into system behavior by observing its outputs
+- Focuses on results inferred from metrics, logs, and traces, combined with existing monitoring data
+- Delivers baseline data to help investigate what went wrong and why
+Causal Observability (Root cause of the problem)
+- Generates extensive, correlated information that helps reduce the time needed to identify
+- what went wrong, why the issue occurred, when it started, and what other areas were impacted
+Proactive with AIOPS (Scalable Al Solutions to proactively fix the problems)
+- Uses Al and ML to find patterns in large volumes of data
+- Detects anomalies early and gives sufficient warnings to prevent failures
+- Integrate with cognitive API to drive self-healing solutions
+- Working on a POC with ChatGPT to evaluate its value in increasing the automation possibilities
+Address Business Use Cases
+Realtime monitoring of machines, network, services usage patterns
+Enable more accurate capacity planning
+Proactive alerts on service health/downtimes/
+Performance degradation
+www.agivant.com agivant
+Service maturity index to prioritize their modernization efforts
+Incident correlation to accelerate the resolutions of a Service dependency tree
+Help in business planning, cost management, load transfer, and right-sizing of infrastructure
+Proactive detection of security/compliance concerns
+Increase productivity of SRE, Operation Engineers
+Develop a platform for the engineering team to improve their releases and plan future ones effectively.
+dentify services that can be retired, needs to be modernized
+Recommend scenarios for automation/self-healing
+Monitoring Application Performance Log Metrics Collection and
+Infrastructure Monitoring (APM) Management Visualization
+This system seamlessly manages APM tools collect data on Logs provide valuable information Collecting and visualizing metrics
+servers, virtual machines, response times, throughput, about system events, errors, related to the platform’s
+containers, storage systems, and errors, and other relevant metrics. warnings, and user activities. performance, resource utilization,
+network devices by tracking This data helps identify Effective log management enables and user behavior. Metrics include
+resource utilization, identifying performance bottlenecks, organizations to troubleshoot CPU and memory usage, network
+bottlenecks, and ensuring optimal optimize code, and improve the issues, identify security threats, and traffic, and database performance.
+resource allocation. overall user experience gain insights into system behavior.
+Distributed Tracing Alerting and Capacity Planning and Security and Compliance
+Traces requests as they flow Notification Resource Optimization Monitoring
+through multiple components and Define thresholds or conditions Identify underutilized resources, Monitoring access logs, user
+microservices, providing insights for triggering alerts based on predict future resource needs, and activities, and system behavior to
+into latency, bottlenecks, and specific metrics. That ensures make informed decisions about detect potential security threats
+dependencies between system responsible teams can scaling infrastructure to meet or compliance violations.
+components. Distributed tracing immediately address issues and demand.
+helps in identifying performance minimize downtime or disruptions.
+issues and optimizing system
+performance.
+Building Blocks of Smart Monitoring Solution
+The following diagram demonstrates vital components of the solution delivered to build the observability framework.
+Ticketing System (Service Now, Service Desk) Automation Agents Reports and Insights Modeling Tools
+Qualified Proactive Auto Troubleshooting Solution Infra Simulation
+Incidents Alerts Assignation Data recommendation recommendation Model
+QN uo ai ls ie fi eS du p Ap ler re ts s Inio cn id a en nd ts A an no dm Sa mly a d rte Ate lc eti rto sn T aic nk de t A C ul ta os s Ri ofi uca titi no gn E Rv oe on tt s C c ao ur sr ee l Aati nao ln y sf io sr Incid ae nn at ly i sm ispact FoC ra ep ca ac si tity ng Simulation
+Unified Operations Data Repository
+Alerts and Events Ingestion Telemetry and Logs Acquisition
+Infrastructure & Application alarms
+SCOM Microsoft OMS NewRelic Azure Application Insights Idera
+Nagios Datadog DynaTrace App Dynamics Keynote/Gomez
+Infrastructure Monitoring Tools Application monitoring Tools
+Network Servers Application Database Storage
+IT Environment
+www.agivant.com agivant
+AI (Artificial Intelligence) can significantly enhance platform observability by automating and augmenting various
+aspects of the monitoring and analysis process. Here’s how AI improves platform observability:
+Anomaly Detection Automated Root Cause Analysis Predictive Analytics
+AI models can detect deviations from expected When an issue arises, AI can assist in By leveraging machine learning techniques, AI
+behavior, such as unusual spikes in traffic, identifying the root cause more efficiently. AI can forecast resource needs, anticipate
+unusual resource utilization, or abnormal algorithms can correlate events, detect potential bottlenecks, and provide insights
+response times. AI-based anomaly detection patterns, and suggest potential causes of the into future performance.
+helps identify potential issues or threats that problem.
+may go unnoticed with traditional monitoring
+approaches.
+Intelligent Alerting Automated Remediation Intelligent Insights and Visualization
+Learn standard behavior patterns and adjust Identifies a specific type of performance issue; it Identify patterns, trends, and correlations that
+alerting thresholds dynamically. This process can trigger automated actions like scaling may not be apparent to human observers. This
+lowers false positives and negatives, resources, restarting services, or adjusting allows teams to gain deeper insights into the
+ensuring that teams are promptly informed configurations. By automating remediation steps, platform’s performance, identify optimization
+of any significant events or anomalies AI reduces the time spent on manual opportunities, and make data-driven
+requiring attention. interventions and speeds up recovery. decisions.
+Agivant AI Diagnostic Framework
+Agivant’s AI Diagnostics framework is based on 9 critical parameters to analyze an organization’s current state and
+readiness to accelerate their AI Journey.
+Our diagnostic framework helps clients analyze all key components to plan data transformation strategies
+Ideal State Selected Customer Similar Customer
+Foundation of AI : Do we have sufficient data Data
+Raw and aggregated Historical data, Auxiliary data, Availibility Trust: Can we trust the data
+External regressor data 5 Data Consistency & Reliability, Security, Compliance
+Impact : Very High Partnerships 4 D Goat va ernance Impact : Very High
+3
+2
+Partnership: Contribution & Participation in data
+communities and analysts to track future trends Talent Skills 1 Organization Alignment: Leadership alignment
+Industry best practices & key learnings, reusable Organisation Data Strategy, Business roadmap, Investments
+frameworks 0 Structure Impact : High
+Impact : High
+Domain Actionable
+Model Insights
+Talent: In-house, Partners, Alliance ecosystem OKR Defined : Do we have Objectives and Key
+ML Engineers, Data Analyst, Program Managers, Results defined Key goals, results and action well
+Data Scientists, Data Engineers, Cloud Engineers defined
+Impact : Very High Data Science Coginitive Impact : Very High
+Technologies
+Data Science Maturity: Already using data for decision
+Domain Model : Leveraging Industry taxonomy / making, Forecasting, Anomalies detection, Prediction, Technology Roadmap : preferred tool & technologies
+definitions Taxonomy, Metadata, Standards, Synthetic Pattern, Classification, Clustering, Regression, Document Processing, Chat Bot, Automation,
+Data, Regulatory Generative AI, Conversational AI, Large Language Model Robotics Process Automation
+Impact : Very High Impact : High Impact : High
+Execution and Implementation Approach : Data Audit, Survey, Interviews and Automated Data Discovery
+Output : Assessment Report & Recommendations
+www.agivant.com agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. agivant
+Scalable Data Insights
+using Databricks
+Agivant's Scalable Data Analytics Platform Using Databricks Lakehouse
+Architectural Approach
+With its distributed architecture and optimized data processing engine, Databricks can significantly improve the performance of
+massive data processing tasks. Spark's in-memory computing capabilities and advanced optimization techniques result in faster
+data transformations and analytics.
+Databricks offers a unified platform integrating data engineering, data science, and machine learning capabilities. This integrated
+environment eliminates the need for switching between different tools, promotes collaboration across teams, and streamlines
+end-to-end data processing workflow.
+Phase 2 Phase 3 Phase 4
+Phase 1
+Use Data Bricks/Spark to Use Azure Databricks/Spark to Final stage is to give a
+Raw data ingestion to data
+perform activities like union of Perform data enrichment persistent storage to data in for
+lake/blob.
+Mobile/Web apps streaming and batch operations like Join, filter, clean of SQL or NoSQL option so
+(structured) processing data and storing to transform data Create Al/ML that data can be further
+data in Delta/compressed models using platforms like consumed by other teams.
+formats. AzureML, MLFlow, SageMaker
+etc.
+Managed data Raw Format
+pipelines
+Application Logs
+(Unstructured)
+NoSQL DB Apps
+Audio/Video
+(Unstructured)
+Files
+(Structured) Data Dashboards
+Warehouse
+Event Hubs /
+IOT unstructured IoT Hub / Kafka
+data Bronze Silver Gold
+Agivant's AI Innovation Lab Has a Rich Set of Expertise in Implementing Complex Data
+Engineering Services Using Databricks Lakehouse Architectural Strategy
+Data Modeling Data Ingestion Data Governance
+Leverage a well-defined schema: Design and Batch and real-time ingestion: Set up Data encryption: Encrypt data at rest and in
+enforce a schema for your data to ensure efficient pipelines for batch and real-time transit to protect sensitive information.
+consistency and improve query performance. data ingestion to keep your Lakehouse
+current. Access controls: Implement fine-grained
+Partitioning and clustering: Use appropriate access controls to restrict data access based
+partitioning and clustering strategies to Change data capture (CDC): Utilize CDC on roles and responsibilities.
+optimize data retrieval and minimize the techniques to capture incremental changes
+Auditing and monitoring: Establish auditing
+amount of data processed during queries and update the Lakehouse accordingly.
+and monitoring mechanisms to track data
+access, changes, and system performance.
+www.agivant.com agivant
+Data Quality Performance Optimization Data Lifecycle Management
+Data validation: Apply data validation Caching: Utilize caching techniques to speed Data retention policies: Establish data
+techniques to ensure the integrity and up query performance for frequently accessed retention policies to manage the lifecycle of
+quality of the data stored in the Lakehouse. or computationally expensive datasets. your data, including archiving or deleting
+stale data.
+Data profiling: Perform data profiling to Data skipping: Leverage indexing or
+understand your data's structure, metadata-based techniques to skip Data lineage: Maintain a comprehensive
+completeness, and distribution. unnecessary data during query execution. record of data lineage to track data
+transformations and ensure data traceability.
+Data compression: Apply appropriate data
+compression techniques to reduce storage
+costs and improve query performance.
+Documentation / Collaborations AI/ML
+Collaboration tools: Use collaborative Collaboration tools: Use collaborative features
+features of Databricks, such as notebooks of Databricks, such as notebooks and version
+and version control, to encourage teamwork control, to encourage teamwork and
+and knowledge sharing. knowledge sharing.
+Documentation: Document data pipelines, Documentation: Document data pipelines,
+transformations, and custom logic to transformations, and custom logic to facilitate
+facilitate understanding and maintainability. understanding and maintainability.
+Value to customer
+Agivant AI Innovation Lab has a rich reusable library of best practices and key learnings to build highly scalable data architecture
+with Databrick as a core technology.
+Provides unified Analytics Platform for data engineering, data science, and analytics to improve collaboration and
+quality of insights.
+Implementation expertise in Microsoft Cloud Scale Analytics Reference Architecture using Databrick health
+lakehouse and OMOP standard data model.
+Healthcare organizations deal with large and diverse datasets. A health lakehouse powered by Apache Spark offers
+scalability and high-performance processing capabilities. It can efficiently handle the volume, velocity, and variety
+of healthcare data, ensuring timely analysis and insights.
+Robust security features to protect sensitive data and ensure compliance with data privacy regulations. It provides
+encryption at rest and in transit, fine-grained access controls, auditing capabilities, and identity and access
+management (IAM) systems integration.
+Collaborative features help share code snippets and leverage version control to ensure seamless collaboration and
+maximize productivity.
+Lakehouse architecture supports both real-time and batch processing. It can handle streaming data ingestion,
+enabling real-time analytics and insights. At the same time, it can process batch data, allowing for comprehensive
+and historical analysis.
+www.agivant.com agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. agivant
+Well-Architected Framework
+for AWS Migration
+Agivant’s Approach for Leveraging AWS Well-Architected Framework for Successful
+AWS Cloud Platform Implementation and AWS Cloud Transformation
+As per a McKinsey report, Cloud could deliver more than $1 trillion value across Fortune 500 companies by 2030,
+and early adopters will capture a disproportionate share.
+While AWS has well-defined Cloud Migration Phases along with a structured approach, it’s critical to leverage
+AWS best practices along with AWS practical experiences for the digital transformation of clients’ businesses
+through innovative use of AWS solutions. AWS Cloud Adoption Framework needs to be focused on 6
+Foundational Capabilities of Business, People, Governance, Platform, Security, and Operations.
+AWS Cloud Migration Phases are well defined as Assess, Mobilize, and Migrate & Modernize.
+Assess Mobilize Migrate & Modernize
+Migrate
+Rapid Discovery TCO Report Discovery & Migration Business case/ Migration
+Planning Plan Mig. Evaluator Modernization
+Experience
+Migration Readiness
+Accelerators
+Assessment
+Operate &
+Optimize
+Skills/Center Landing Operating Security &
+of Excellence Zone Model Compliance
+Briefing & Immersion Modernize
+Workshops Day
+Create a case for change Build readiness through experiences Accelerate transformation at scale
+The AWS Well-Architected Framework is applied during the Mobilize phase of cloud migration. This framework
+helps to understand the pros and cons of decision mode while building systems on AWS. Using the framework,
+one can adopt the architectural best practices for designing and operating reliable, secure, efficient, and
+cost-effective systems in the Cloud. It provides a way to consistently measure your architectures against best
+practices and identify areas for improvement.
+At Agivant, we firmly believe that having well-architected systems dramatically increases the likelihood of
+business success. The key objectives of this framework are – Build and deploy faster, Lower or mitigate risks,
+make informed decisions, and Learn AWS best practices.
+www.agivant.com agivant
+The Pillars of AWS Well-Architected Framework Are:
+Operational Security Reliability Performance Cost Sustainability
+excellence efficiency optimization
+The AWS Well-Architected Framework provides architectural best practices across the six pillars for designing and
+operating reliable, secure, efficient, cost-effective, and sustainable systems in the Cloud. The framework provides
+multiple parameters that allow you to review the proposed architecture and a set of AWS best practices for each pillar.
+Agivant leverages “AWS Well-Architected Labs” with the repository of documentation and code in the format of
+hands-on labs to learn, measure, and build using architectural best practices. This provides a consistent approach for
+customers to evaluate architectures and guides to help implement designs that will scale with business application
+requirements over time.
+Value to Customer
+Agivant AWS experts have leveraged a Well-Architected Framework and best practices across each pillar for
+building the most secure, high-performing, resilient, and efficient infrastructure possible for our client’s business
+applications.
+Our AWS experts have contributed to clients’ strategic initiatives to architecture, design, and build Cloud
+Platforms for critical businesses by using the best AWS cloud solutions.
+This Well-Architected Framework approach is widely used for multiple business use cases across industries to
+leverage large-scale implementations of AWS Cloud most efficiently and innovatively:
+Launched new Tolls Platform by meeting 100% uptime need.
+Migrated multiple legacy applications to AWS with 30% reduction in operational cost.
+Implemented AWS CI/CD with 30% reduced deployment time.
+Transformed business critical application to cloud with 50% improved response times.
+3X improvement in platform availability.
+New Platform launch and adoptions at 25% faster speed.
+Launched new Stock Options Platform with 40% more adoption by new employers.
+Engagement Model
+We partner to architecture, design, and implement new
+AWS Cloud Platforms for our client’s businesses to launch
+new services or expand existing services. We also partner
+with our clients to migrate and transform the existing
+business solutions to AWS cloud by leveraging a
+“Well-Architected Framework” with objectives to provide the
+most effective value of cloud investment and innovative
+solutions considering the future growth of the business.
+Agivant Lab leverages the “Well-Architected Framework” framework,
+our AWS experiences, AWS experts, and Solution best practices to
+deliver reliable, secure, efficient, cost-effective, innovative, and
+sustainable Cloud Platforms for our client’s businesses.
+www.agivant.com agivant
+Agivant is a new age We enable clients with We partner with clients We are a result oriented
+AI-First Digital & Cloud the power of to help them in team that focuses in
+Engineering Services technology solutions to Technology Innovation, delivering client success
+Company. help them achieve their Scale & Optimization through their business
+trajectory of growth and Engineering growth and relevance to
+and relevance, through Enablement. the new world of
+agility. opportunities.
+Agivant is a new-age AI-First Digital and Cloud Engineering services company that drives Agility and Relevance for
+our client’s success.
+Powered by cutting-edge technology solutions that enable new business models and revenue streams, we help our
+clients achieve their trajectory of growth. Agility is a core muscle, an integral part of the fabric of a modern enterprise.
+To succeed in an ever-changing business environment, every modern organization needs to adapt and renew itself
+quickly. We help foster a more agile approach to business to reconfigure strategy, structure, and processes to achieve
+more growth and drive greater efficiencies.
+Our Services
+Our portfolio of services helps leading enterprises adopt cutting-edge technology solutions to transform their
+products and services and evolve business models.
+Platform Engineering AI and Data
+Cloud Experience Engineering
+agivant
+Contact us at hello@agivant.com
+© 2023 Agivant Technologie. All rights reserved. Welcome to Smallpdf
+Ready to take document management to the next level?
+Digital Documents—All In One Place
+With the new Smallpdf experience, you can
+freely upload, organize, and share digital
+documents. When you enable the ‘Storage’
+option, we’ll also store all processed files here.
+Enhance Documents in One Click
+When you right-click on a file, we’ll present
+you with an array of options to convert,
+compress, or modify it.
+Access Files Anytime, Anywhere
+You can access files stored on Smallpdf from
+your computer, phone, or tablet. We’ll also
+sync files from the Smallpdf Mobile App to our
+online portal
+Collaborate With Others
+Forget mundane administrative tasks. With
+Smallpdf, you can request e-signatures, send
+large files, or even enable the Smallpdf G Suite
+App for your entire organization.
