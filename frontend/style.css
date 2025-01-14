@@ -1,0 +1,21 @@
+[data-testid="stHeader"] {
+  background-image: url('https://www.agivant.com/wp-content/uploads/2022/06/Agivant-SVG-Logo.svg');
+  background-repeat: no-repeat;
+  background-position: left center; /* Position the logo in the left corner */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* height: 100px; Adjust the height as needed */
+  padding: 0 20px; /* Add some padding to the left and right */
+  position: relative;
+}
+
+[data-testid="stHeader"]::before {
+  content: 'On Prem Gen AI';
+  font-size: 35px; /* Adjust the font size as needed */
+  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
