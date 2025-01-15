@@ -1,0 +1,5 @@
+# Ignore all files in the pdfs directory
+pdfs/
+
+# Ignore the logo.png file in the frontend directory
+frontend/logo.png
