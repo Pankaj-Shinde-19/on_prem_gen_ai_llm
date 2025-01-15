@@ -18,6 +18,8 @@ collection_name = "documents"
 # Initialize Qdrant client in server mode
 qdrant_client = QdrantClient(host="localhost", port=6333)
 
+
+
 # Check if the collection exists; create it if it doesn't
 if not qdrant_client.collection_exists(collection_name):
     qdrant_client.create_collection(

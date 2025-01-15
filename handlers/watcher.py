@@ -9,7 +9,7 @@ from watchdog.events import LoggingEventHandler
 from pdf_filehandler import PDFHandler
 
 if __name__ == "__main__":
-    # Configure logging for the script
+    # Configure logging for the scriptpython
     logging.basicConfig(
         level=logging.INFO,  # Set log level to INFO
         format="%(asctime)s - %(message)s",  # Log message format

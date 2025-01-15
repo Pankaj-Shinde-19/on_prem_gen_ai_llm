@@ -24,6 +24,7 @@ cross_encoder = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-12-v2', device='cp
 # Initialize Qdrant client for document vector database interaction
 qdrant_client = QdrantClient(host="localhost", port=6333)
 
+
 # Set up a deque to maintain conversation history (FIFO, max length 2)
 conversation_history = deque(maxlen=2)
 
